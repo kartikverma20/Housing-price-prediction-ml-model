@@ -1,6 +1,4 @@
-Here’s a concise **README** for the Boston Housing Dataset project:
 
----
 
 # 🏠 Boston Housing Price Prediction
 
@@ -33,7 +31,3 @@ This project uses the **Boston Housing Dataset** to predict the median value of 
 * Perform **exploratory data analysis (EDA)**.
 * Build **regression models** to predict house prices.
 * Evaluate models using metrics like RMSE, MAE, and R² score.
-
----
-
-If you want, I can also create a **shorter, GitHub-ready version** with badges and a neat layout. Do you want me to do that?
